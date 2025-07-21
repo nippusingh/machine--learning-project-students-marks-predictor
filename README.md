@@ -1,9 +1,14 @@
 🧠 Student Marks Prediction - ML Project
+
 📌 Project Overview
-This project predicts students' marks based on the number of hours they studied, using a Simple Linear Regression model. It demonstrates how machine learning can be applied to real-world data to make meaningful predictions.🗂️ Dataset
-Source: Custom or sample dataset (e.g., student.csv)
+This project predicts students' marks based on the number of hours they studied, using a Simple Linear Regression model. It demonstrates how machine learning can be applied to real-world data to make meaningful predictions.
+
+
+🗂️ Dataset
+Source: Custom or sample dataset 
 
 ⚙️ Technologies Used
+
 Python 🐍
 
 NumPy
